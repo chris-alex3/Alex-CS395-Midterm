@@ -6,5 +6,5 @@ Resources used:
 5) https://getbootstrap.com/docs/5.3/components/card/ - Bootstrap Cards
 
 
-Github Repository: 
-Website Link: 
+Github Repository: https://github.com/chris-alex3/Chris-Alex-Portfolio
+Website Link: https://chris-alex3.github.io/Chris-Alex-Portfolio/
